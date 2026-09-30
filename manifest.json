@@ -1,0 +1,6 @@
+{
+  "name": "csv",
+  "version": "0.1.0",
+  "entry": "src/csv.f",
+  "description": "Buffered RFC 4180-oriented CSV parsing and serialization"
+}
